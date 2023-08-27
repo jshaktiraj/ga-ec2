@@ -26,4 +26,4 @@ jobs:
       with:
           context: .   
           push: true
-          tags: 1
+          tags: jshaktiraj/demoict:1
